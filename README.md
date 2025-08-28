@@ -14,5 +14,5 @@ SMART DTE SAS DE C.V.
 - Descargue el archivo comprimido del repositorio.
 - Extraiga el contenido.
 - Mueva la carpeta (FIMADOR-SERVICE-Windows) al disco C:\
-- Ejecute el archivo FIMADOR-SERVICE.exe para iniciar el servicio.
-- Siga las instrucciones de uso para ejecutar instalar.
+- Ejecute el archivo FIMADOR-SERVICE.exe Siga las instrucciones de uso para instalar el servicio.
+- El servicio estará disponible en http://localhost:8113/firmardocumento/ para realizar firmas digitales.
