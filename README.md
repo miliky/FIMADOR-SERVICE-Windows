@@ -12,7 +12,7 @@ SMART DTE SAS DE C.V.
 - Asegúrese de que todos los requisitos del sistema estén cumplidos antes de ejecutar el servicio.
 # Instalación:
 - Descargue el archivo comprimido del repositorio.
-- Extraiga el contenido en una carpeta de su elección.
+- Extraiga el contenido.
 - Mueva la carpeta (FIMADOR-SERVICE-Windows) al disco C:\
 - Ejecute el archivo FIMADOR-SERVICE.exe para iniciar el servicio.
 - Siga las instrucciones de uso para ejecutar instalar.
