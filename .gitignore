@@ -1,0 +1,10 @@
+# Ignorar todo
+*
+
+# Excepto estos archivos
+!.gitignore
+!FIMADOR-SERVICE.exe
+!README.md
+!svfe-api-firmador-0.1.1.jar
+!WinSW.exe
+!WinSW.xml
